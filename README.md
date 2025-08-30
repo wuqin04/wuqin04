@@ -39,8 +39,8 @@
 
 ## Contact
 
-GitHub Profile: [https://github.com/wuqin04](https://github.com/wuqin04)
-Freelancer Profile: [https://www.freelancer.com/u/wuqinn](https://www.freelancer.com/u/wuqinn)
-YouTube Profile: [https://www.youtube.com/@wuqin_dev](https://www.youtube.com/@wuqin_dev)
-Website Page: [Website]: `Coming Soon`
+* [GitHub Profile:](https://github.com/wuqin04)
+* [Freelancer Profile:](https://www.freelancer.com/u/wuqinn)
+* [YouTube Profile:](https://www.youtube.com/@wuqin_dev)
+* [Website Page:] `Coming Soon`
 
