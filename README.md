@@ -37,12 +37,10 @@
 * ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
+## Contact
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-![GitHub](https://github.com/wuqin04)
-![Freelancer](https://www.freelancer.com/u/wuqinn)
-!![YouTube](https://www.youtube.com/@wuqin_dev)
-[Website]: `Coming Soon`
+GitHub Profile: [https://github.com/wuqin04](https://github.com/wuqin04)
+Freelancer Profile: [https://www.freelancer.com/u/wuqinn](https://www.freelancer.com/u/wuqinn)
+YouTube Profile: [https://www.youtube.com/@wuqin_dev](https://www.youtube.com/@wuqin_dev)
+Website Page: [Website]: `Coming Soon`
 
