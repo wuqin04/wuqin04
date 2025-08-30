@@ -22,24 +22,27 @@
 
 ---
 
-### 🧰 Languages and Tools
+### 🛠️ Languages & Tools
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=Python&logoColor=61DAFB" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/Cplusplus-20232A?style=for-the-badge&logo=Cplusplus&logoColor=61DAFB" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=C&logoColor=61DAFB" />
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/csharp-20232A?style=for-the-badge&logo=csharp&logoColor=61DAFB" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git&logoColor=61DAFB" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/linux-20232A?style=for-the-badge&logo=linux&logoColor=61DAFB" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/html-20232A?style=for-the-badge&logo=html&logoColor=61DAFB" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/css-20232A?style=for-the-badge&logo=css&logoColor=61DAFB" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/js-20232A?style=for-the-badge&logo=js&logoColor=61DAFB" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github&logoColor=61DAFB" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/bash-20232A?style=for-the-badge&logo=bash&logoColor=61DAFB" />
-<br />
+* ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+* ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+* ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+* ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+* ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+* ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+* ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+* ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+* ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+* ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+* ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-[GitHub]: [https://github.com/wuqin04]
-[Freelancer]: [https://www.freelancer.com/u/wuqinn]
-[Email]: [wuqin419@gmail.com]
-[YouTube]: [https://www.youtube.com/@wuqin_dev]
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+![GitHub](https://github.com/wuqin04)
+![Freelancer](https://www.freelancer.com/u/wuqinn)
+!![YouTube](https://www.youtube.com/@wuqin_dev)
 [Website]: `Coming Soon`
 
