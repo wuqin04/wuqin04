@@ -38,9 +38,9 @@
 
 
 ## Contact
+* [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wuqin04)
+* [![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/wuqinn)
+* [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@wuqin_dev)
+* [![Website](https://img.shields.io/badge/Website-Coming%20Soon-lightgrey?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
-* [GitHub Profile:](https://github.com/wuqin04)
-* [Freelancer Profile:](https://www.freelancer.com/u/wuqinn)
-* [YouTube Profile:](https://www.youtube.com/@wuqin_dev)
-* [Website Page:] `Coming Soon`
 
