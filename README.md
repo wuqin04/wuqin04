@@ -12,16 +12,19 @@
 
 🌍 Long term, I aim to merge technology and entrepreneurship to create tools, apps, and platforms that can impact people’s lives. Whether it’s a small productivity app or the foundation for a larger venture, every line of code I write is a step toward building meaningful solutions.
 
-   <p align="left">
-        <!-- GitHub Followers -->
-        <a href="https://github.com/wuqin04?tab=followers">
-            <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/wuqin04?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-        </a>
-        <!-- GitHub Stars -->
-        <a href="https://github.com/wuqin04?tab=repositories&sort=stargazers">
-            <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/wuqin04?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-        </a>
-    </p>
+<p align="left">
+    <!-- GitHub Followers -->
+    <a href="https://github.com/wuqin04?tab=followers">
+        <img alt="GitHub followers" title="Follow me on GitHub"
+             src="https://img.shields.io/github/followers/wuqin04?label=Follow&style=for-the-badge&logo=github"/>
+    </a>
+    <!-- GitHub Stars -->
+    <a href="https://github.com/wuqin04?tab=repositories&sort=stargazers">
+        <img alt="GitHub stars" title="Total stars on GitHub"
+             src="https://img.shields.io/github/stars/wuqin04?style=for-the-badge&logo=github"/>
+    </a>
+</p>
+
 
 
 ---
