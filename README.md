@@ -6,11 +6,7 @@
 
 **`Future Founder (Developer / Builder / Entrepreneur)`**
 
-💡 I treat every project like a startup-in-miniature. From the moment an idea sparks, I dive into the full process — planning, designing, coding, testing, and iterating until the concept comes alive. For me, it’s not just about writing code; it’s about building products that have purpose.
-
-🚀 My focus is on solving real problems, validating ideas quickly, and learning from every success and failure. Each project is both a product and a lesson, helping me sharpen my technical skills while training my entrepreneurial mindset.
-
-🌍 Long term, I aim to merge technology and entrepreneurship to create tools, apps, and platforms that can impact people’s lives. Whether it’s a small productivity app or the foundation for a larger venture, every line of code I write is a step toward building meaningful solutions.
+I don't just write code to learn a syntax—I build products. I treat every repo on here like a mini-startup, taking it all the way from a rough idea to a working solution. My goal is to bridge the gap between solid software engineering and real-world entrepreneurship. Whether it's a small utility tool or the backend for a larger platform, I'm focused on solving actual problems, shipping quickly, and learning from whatever breaks along the way.
 
 <p align="left">
     <!-- GitHub Followers -->
